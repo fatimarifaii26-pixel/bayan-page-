@@ -1,5 +1,4 @@
-# bayan-page-
-a small page for islamic center 
+
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
